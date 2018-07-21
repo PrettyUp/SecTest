@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecTest</string>
+    <string name="tv_org_text">Hello World!</string>
+    <string name="tv_result_hint_text">加/解密结果</string>
+    <string name="btn_encrypt_text">加密</string>
+    <string name="btn_decrypt_text">解密</string>
+</resources>
